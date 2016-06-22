@@ -4,13 +4,25 @@
   :file: test_Coroutine.c
 :successes:
 - :test: test_coroutine
-  :line: 34
+  :line: 51
+  :message: ''
+- :test: test_getTime_
+  :line: 59
+  :message: ''
+- :test: test_readButton_
+  :line: 66
+  :message: ''
+- :test: test_configLEDandButton
+  :line: 73
+  :message: ''
+- :test: test_ButtonAndLED
+  :line: 82
   :message: ''
 :failures: []
 :ignores: []
 :counts:
-  :total: 1
-  :passed: 1
+  :total: 5
+  :passed: 5
   :failed: 0
   :ignored: 0
 :stdout:
